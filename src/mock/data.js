@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'I’m a web developer. I am equally comfortable implementing a front end design as I am working with frameworks, middleware, and databases.  I am presently employed as a Gatsby React developer intern for a marketing and branding firm. I am most comfortable working in Python and Python frameworks (Django or Flask). I am also adept at SQL queries, Data analysis in Python or R. I also have a knack for Product and Project management.',
+  paragraphTwo: 'I’ve had an atypical background for a developer. My academic background is in the humanities, achieving a B.A. in Philosophy with a minor in Classics. My love of and natural skill in both languages and symbolic logic at university made my transition into software a natural choice. The impetus for me to become a full stack software engineer came in my time working in the Energy sector, surrounded by opportunities for improvement. When the opportunity to retool my career with Holberton came, it jumped at it.',
+  paragraphThree: 'I am motivated by a desire to continuously improve products and processes to more quickly, and more efficiently deliver on strategy. That might sound like boilerplate MBA student mumbo jumbo, but in my case it’s true. I bring that enthusiasm for continuous improvement to any team I’m part of.  Plus, I bring the best dad jokes.',
   resume: 'https://www.canva.com/design/DAEkBlJrlc0/UPcBh5LDQn9kUvV6JuuMyQ/view?utm_content=DAEkBlJrlc0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink', // if no resume, the button will not show up
 };
 
