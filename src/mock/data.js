@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://www.canva.com/design/DAEkBlJrlc0/UPcBh5LDQn9kUvV6JuuMyQ/view?utm_content=DAEkBlJrlc0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -68,22 +68,27 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/Jacobei6',
     },
     {
       id: nanoid(),
       name: 'codepen',
-      url: '',
+      url: 'https://codepen.io/JacobIde',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/jacobide/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/ihavemadefire',
+    },
+    {
+      id: nanoid(),
+      name: 'medium',
+      url: 'https://jacobmeide.medium.com/',
     },
   ],
 };
