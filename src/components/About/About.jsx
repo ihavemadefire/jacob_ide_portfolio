@@ -52,8 +52,8 @@ const About = () => {
                   <span className="d-flex mt-3">
                     <a
                       target="_blank"
-                      rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
+                      download='Jacob Ide - Product Manager 2021'
                       href={resume}
                     >
                       Resume
